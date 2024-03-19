@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: IpChecker
+Version: 1.2
+Summary: Scrape checkip.dyndns.org for the users current ip address and prints it.
+Author: Daniel Martens
+Author-email: dmartens3@rrc.ca
